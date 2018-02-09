@@ -60,7 +60,7 @@ string alienOrder(vector<string>& words)
             if(j < w2.length() && graph.find(w2[j]) == graph.end()) {
                 graph.insert(make_pair(w2[j], unordered_set<char>()));
             }
-            // bug: check bound is missing
+            // bug: check bound was missing
             // if(!done && w1[j] != w2[j]) { 
             if(!done && j < min(w1.length(), w2.length()) && w1[j] != w2[j]){
                 graph[w2[j]].insert(w1[j]);
