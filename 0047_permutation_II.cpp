@@ -33,8 +33,8 @@ private:
 int main() {
 	Solution47 sol;
 	vector<vector<int> > ans1{{1, 1, 2},
-								{1, 2, 1},
-								{2, 1, 1}};
+                              {1, 2, 1},
+                              {2, 1, 1}};
 	vector<int> nums1{1, 1, 2};
 	vector<vector<int> > ret1 = sol.permuteUnique(nums1);
 	if(ret1 != ans1) {
