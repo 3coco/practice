@@ -10,3 +10,4 @@
 - 02/19/18: GFG-Shortest Common Supersequence, 484-Find Permutation
 - 02/23/18: 46-Permutations, 47-Permutations II
 - 02/24/18: 48-Rotate Image, 50-Pow(x, n)
+- 02/26/18: 221-Maximal Square, 388-Longest Absolute File Path
