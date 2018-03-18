@@ -16,3 +16,4 @@
 - 03/06/18: 153-Find Minimum in Rotated Sorted Array, 162-Find Peak Element, 190-Reverse Bits
 - 03/11/18: 166-Fraction to Recurring Decimal
 - 03/12/18: 165-Compare Version Numbers
+- 03/18/18: 171-Excel Sheet Column Number
