@@ -21,3 +21,4 @@
 - 03/22/18: 71-Edit Distance, 161-One Edit Distance
 - 03/23/18: 155-Min Stack, 172-Factorial Trailing Zeroes
 - 03/24/18: 158-Read N Characters Given Read4 II - Call multiple times
+- 03/25/18: 214-Shortest Palindrome
