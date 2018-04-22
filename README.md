@@ -27,3 +27,4 @@
 - 04/08/18: 173-Binary Search Tree Iterator, 218-The Skyline Problem
 - 04/15/18: 737-Sentence Similarity II
 - 04/18/18: 209-Minimum Size Subarray Sum
+- 04/21/18: 204-Count Primes
