@@ -29,4 +29,4 @@
 - 04/18/18: 209-Minimum Size Subarray Sum
 - 04/21/18: 204-Count Primes
 - 04/22/18: 207-Course Schedule
-- 04/28/18: 402-Remove K Digits
+- 04/28/18: 198-House Robber, 402-Remove K Digits
